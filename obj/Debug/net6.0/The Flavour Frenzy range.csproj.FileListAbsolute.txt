@@ -24,3 +24,29 @@ C:\Users\Ritik\Documents\GitHub\SRMAssessment\The-Flavour-Frenzy-\The Flavour Fr
 C:\Users\Ritik\Documents\GitHub\SRMAssessment\The-Flavour-Frenzy-\The Flavour Frenzy range\obj\Debug\net6.0\The Flavour Frenzy range.pdb
 C:\Users\Ritik\Documents\GitHub\SRMAssessment\The-Flavour-Frenzy-\The Flavour Frenzy range\obj\Debug\net6.0\The Flavour Frenzy range.genruntimeconfig.cache
 C:\Users\Ritik\Documents\GitHub\SRMAssessment\The-Flavour-Frenzy-\The Flavour Frenzy range\obj\Debug\net6.0\ref\The Flavour Frenzy range.dll
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\appsettings.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\The Flavour Frenzy range.staticwebassets.runtime.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\The Flavour Frenzy range.exe
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\The Flavour Frenzy range.deps.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\The Flavour Frenzy range.runtimeconfig.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\The Flavour Frenzy range.dll
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\bin\Debug\net6.0\The Flavour Frenzy range.pdb
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.csproj.AssemblyReference.cache
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.AssemblyInfoInputs.cache
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.AssemblyInfo.cs
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.csproj.CoreCompileInputs.cache
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.RazorAssemblyInfo.cache
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.RazorAssemblyInfo.cs
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\scopedcss\bundle\The Flavour Frenzy range.styles.css
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\scopedcss\projectbundle\The Flavour Frenzy range.bundle.scp.css
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.dll
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\refint\The Flavour Frenzy range.dll
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.pdb
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\The Flavour Frenzy range.genruntimeconfig.cache
+C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\obj\Debug\net6.0\ref\The Flavour Frenzy range.dll

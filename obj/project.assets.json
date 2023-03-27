@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ritik\\Documents\\GitHub\\SRMAssessment\\The-Flavour-Frenzy-\\The Flavour Frenzy range\\The Flavour Frenzy range.csproj",
+      "projectUniqueName": "C:\\Users\\Ritik\\Documents\\GitHub\\New folder (2)\\The-Flavour-Frenzy-\\The Flavour Frenzy range.csproj",
       "projectName": "The Flavour Frenzy range",
-      "projectPath": "C:\\Users\\Ritik\\Documents\\GitHub\\SRMAssessment\\The-Flavour-Frenzy-\\The Flavour Frenzy range\\The Flavour Frenzy range.csproj",
+      "projectPath": "C:\\Users\\Ritik\\Documents\\GitHub\\New folder (2)\\The-Flavour-Frenzy-\\The Flavour Frenzy range.csproj",
       "packagesPath": "C:\\Users\\Ritik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ritik\\Documents\\GitHub\\SRMAssessment\\The-Flavour-Frenzy-\\The Flavour Frenzy range\\obj\\",
+      "outputPath": "C:\\Users\\Ritik\\Documents\\GitHub\\New folder (2)\\The-Flavour-Frenzy-\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

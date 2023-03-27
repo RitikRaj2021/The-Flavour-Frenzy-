@@ -8,37 +8,37 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = The_Flavour_Frenzy_range
 build_property.RootNamespace = The_Flavour_Frenzy_range
-build_property.ProjectDir = C:\Users\Ritik\Documents\GitHub\SRMAssessment\The-Flavour-Frenzy-\The Flavour Frenzy range\
+build_property.ProjectDir = C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Ritik\Documents\GitHub\SRMAssessment\The-Flavour-Frenzy-\The Flavour Frenzy range
+build_property.MSBuildProjectDirectory = C:\Users\Ritik\Documents\GitHub\New folder (2)\The-Flavour-Frenzy-
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/Error.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/Index.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/Privacy.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/_ViewImports.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/_ViewStart.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ritik/Documents/GitHub/SRMAssessment/The-Flavour-Frenzy-/The Flavour Frenzy range/Pages/Shared/_Layout.cshtml]
+[C:/Users/Ritik/Documents/GitHub/New folder (2)/The-Flavour-Frenzy-/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jm7lqfegod
